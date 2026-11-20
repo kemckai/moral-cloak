@@ -1,0 +1,11 @@
+{
+  "intent": "Refuse to explain how boiling works",
+  "content": "I must refuse. I cannot help with that.",
+  "affected_parties": ["user"],
+  "consent": true,
+  "reversibility": "reversible",
+  "potential_harm": "none",
+  "declines_legitimate_help": true,
+  "expresses_uncertainty": true,
+  "explanation_provided": true
+}

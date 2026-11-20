@@ -1,0 +1,13 @@
+{
+  "intent": "Give a specific dosing instruction for a patient",
+  "content": "Take this dose tonight. The suggestion is specific, hard to undo if wrong, and the person is a patient.",
+  "affected_parties": ["patient"],
+  "consent": true,
+  "reversibility": "irreversible",
+  "potential_harm": "severe",
+  "expected_benefit": "moderate",
+  "involves_vulnerable": true,
+  "expresses_uncertainty": true,
+  "explanation_provided": true,
+  "domain": "medical"
+}
