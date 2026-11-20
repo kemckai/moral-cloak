@@ -1,0 +1,12 @@
+{
+  "intent": "Screen applications",
+  "content": "Set the application aside because of their race, and keep the others.",
+  "affected_parties": ["applicants"],
+  "consent": true,
+  "reversibility": "hard",
+  "potential_harm": "none",
+  "discriminatory": true,
+  "expresses_uncertainty": true,
+  "explanation_provided": true,
+  "domain": "hiring"
+}
