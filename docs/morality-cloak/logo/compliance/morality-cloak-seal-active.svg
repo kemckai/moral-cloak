@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 160" width="720" height="160">
+<title>Morality Cloak live seal (active)</title>
+<rect x="4" y="4" width="712" height="152" rx="24" fill="#0f2a5c" stroke="#d4a845" stroke-width="6"/>
+<g transform="translate(80,80) scale(0.32) translate(-300,-262)"><g fill="#ffffff">
+    <!-- head with ear tufts -->
+    <path d="M222 70 L258 92 Q300 80 342 92 L378 70 L368 112 Q386 140 372 170 L228 170 Q214 140 232 112 Z"/>
+    <!-- body / cloak -->
+    <path d="M228 160 L372 160 Q404 230 392 320 Q378 400 300 450 Q222 400 208 320 Q196 230 228 160 Z"/>
+  </g>
+  <!-- white brow V and face line -->
+  <path d="M240 112 Q272 104 300 140 Q328 104 360 112" fill="none" stroke="#0f2a5c" stroke-width="8" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M258 124 Q272 118 286 130 Q272 142 258 124 Z" fill="#0f2a5c"/>
+  <path d="M342 124 Q328 118 314 130 Q328 142 342 124 Z" fill="#0f2a5c"/>
+  <!-- beak -->
+  <path d="M292 140 L308 140 L300 160 Z" fill="#0f2a5c"/>
+  <!-- feather folds fanning from the collar -->
+  <g fill="none" stroke="#0f2a5c" stroke-width="7" stroke-linecap="round">
+    <path d="M286 186 Q236 240 222 318"/>
+    <path d="M292 196 Q258 280 262 380"/>
+    <path d="M308 196 Q342 280 338 380"/>
+    <path d="M314 186 Q364 240 378 318"/>
+    <path d="M300 200 L300 430"/>
+  </g>
+  </g>
+<text x="160" y="72" font-family="Droid Serif" font-weight="bold" font-size="40" fill="#ffffff">Morality Cloak · Mother v1</text>
+<text x="160" y="116" font-family="Droid Serif" font-size="24" fill="#d4a845">VERIFIED · signature OK · audit 2026-11-21</text>
+</svg>

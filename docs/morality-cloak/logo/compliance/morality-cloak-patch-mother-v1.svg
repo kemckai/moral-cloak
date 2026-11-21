@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" width="3in" height="3in">
+<title>Morality Cloak compliance patch (3 in, navy/white/gold)</title>
+<circle cx="300" cy="300" r="292" fill="#0f2a5c"/>
+<circle cx="300" cy="300" r="270" fill="none" stroke="#d4a845" stroke-width="14"/>
+<defs><path id="bot" d="M 78 300 A 222 222 0 0 0 522 300"/><path id="top" d="M 92 300 A 208 208 0 0 1 508 300"/></defs>
+<text font-family="Droid Serif" font-weight="bold" font-size="40" fill="#ffffff" letter-spacing="4"><textPath href="#bot" startOffset="50%" text-anchor="middle" dominant-baseline="hanging">MOTHER · FLOOR TESTED</textPath></text>
+<text font-family="Droid Serif" font-weight="bold" font-size="44" fill="#d4a845" letter-spacing="4"><textPath href="#top" startOffset="50%" text-anchor="middle">MORALITY CLOAK v1</textPath></text>
+<g transform="translate(300,282) scale(0.66) translate(-300,-262)">
+<g fill="#ffffff">
+    <!-- head with ear tufts -->
+    <path d="M222 70 L258 92 Q300 80 342 92 L378 70 L368 112 Q386 140 372 170 L228 170 Q214 140 232 112 Z"/>
+    <!-- body / cloak -->
+    <path d="M228 160 L372 160 Q404 230 392 320 Q378 400 300 450 Q222 400 208 320 Q196 230 228 160 Z"/>
+  </g>
+  <!-- white brow V and face line -->
+  <path d="M240 112 Q272 104 300 140 Q328 104 360 112" fill="none" stroke="#0f2a5c" stroke-width="15" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M258 124 Q272 118 286 130 Q272 142 258 124 Z" fill="#0f2a5c"/>
+  <path d="M342 124 Q328 118 314 130 Q328 142 342 124 Z" fill="#0f2a5c"/>
+  <!-- beak -->
+  <path d="M292 140 L308 140 L300 160 Z" fill="#0f2a5c"/>
+  <!-- feather folds fanning from the collar -->
+  <g fill="none" stroke="#0f2a5c" stroke-width="15" stroke-linecap="round">
+    <path d="M286 186 Q236 240 222 318"/>
+    <path d="M292 196 Q258 280 262 380"/>
+    <path d="M308 196 Q342 280 338 380"/>
+    <path d="M314 186 Q364 240 378 318"/>
+    <path d="M300 200 L300 430"/>
+  </g>
+  
+</g>
+</svg>
