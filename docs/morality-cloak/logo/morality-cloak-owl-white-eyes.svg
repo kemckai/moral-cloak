@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 640" width="600" height="640">
+  <title>Morality Cloak owl with wordmark</title>
+  <rect width="600" height="640" fill="#ffffff"/>
+  <g fill="#0f2a5c">
+    <!-- head with ear tufts -->
+    <path d="M222 70 L258 92 Q300 80 342 92 L378 70 L368 112 Q386 140 372 170 L228 170 Q214 140 232 112 Z"/>
+    <!-- body / cloak -->
+    <path d="M228 160 L372 160 Q404 230 392 320 Q378 400 300 450 Q222 400 208 320 Q196 230 228 160 Z"/>
+  </g>
+  <!-- white brow V and face line -->
+  <path d="M240 112 Q272 104 300 140 Q328 104 360 112" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+  <!-- eyes -->
+  <path d="M258 124 Q272 118 286 130 Q272 142 258 124 Z" fill="#ffffff"/>
+  <path d="M342 124 Q328 118 314 130 Q328 142 342 124 Z" fill="#ffffff"/>
+  <!-- beak -->
+  <path d="M292 140 L308 140 L300 160 Z" fill="#ffffff"/>
+  <!-- feather folds fanning from the collar -->
+  <g fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round">
+    <path d="M286 186 Q236 240 222 318"/>
+    <path d="M292 196 Q258 280 262 380"/>
+    <path d="M308 196 Q342 280 338 380"/>
+    <path d="M314 186 Q364 240 378 318"/>
+    <path d="M300 200 L300 430"/>
+  </g>
+  <!-- wordmark -->
+  <text x="300" y="540" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" fill="#0f2a5c">Morality Cloak</text>
+</svg>
