@@ -255,6 +255,13 @@ tests/
 PHILOSOPHY.md
 ```
 
+## Roadmap: role and cultural cloaks
+
+A proposed extension would add role cloaks — Mother, Friend, Coach, and
+Worker — on top of the twelve-law charter, with cultural overlays that work
+like locales. The design is written down and is not implemented. See
+[docs/morality-cloak/README.md](docs/morality-cloak/README.md).
+
 ## License
 
 MIT. Copyright Keith McKay.
